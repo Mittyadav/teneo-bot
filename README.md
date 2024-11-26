@@ -1,5 +1,5 @@
 # Teneo Bot
-[Click here for old readme](https://github.com/recitativonika/teneo-bot/blob/main/readme-old.md)
+[Click here for old readme](https://github.com/Mittyadav/teneo-bot/blob/main/readme-old.md)
 ## Description
 Teneo bot is a simple tool designed to automate the node interaction.
 
@@ -13,7 +13,7 @@ Teneo bot is a simple tool designed to automate the node interaction.
 
 1. Clone the repository to your local machine:
    ```bash
-	git clone https://github.com/recitativonika/teneo-bot.git
+	git clone https://github.com/Mittyadav/teneo-bot.git
    ```
 2. Navigate to the project directory:
 	```bash
@@ -72,5 +72,7 @@ Extension link : https://chromewebstore.google.com/detail/teneo-community-node/e
 
 My reff code if you want to use :) : 
 ```bash
-03WkM
+E7JA5S
 ```
+
+recitativonika
