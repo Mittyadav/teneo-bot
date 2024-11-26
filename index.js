@@ -64,7 +64,7 @@ function displayHeader() {
   console.log("");
   console.log(chalk.yellow(" ============================================"));
   console.log(chalk.yellow("|                 Teneo Bot                  |"));
-  console.log(chalk.yellow("|         github.com/recitativonika          |"));
+  console.log(chalk.yellow("|         github.com/Mittyadav               |"));
   console.log(chalk.yellow(" ============================================"));
   console.log("");
   console.log(chalk.cyan(`_____________________________________________`));
